@@ -3,7 +3,7 @@ const mysql = require('mysql');
 const cors = require('cors');
 const axios = require('axios'); // Require Axios for HTTP requests
 const app = express();
-const port = 3000;
+const port = 80;
 
  
 
